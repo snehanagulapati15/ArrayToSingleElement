@@ -42,6 +42,7 @@ Input Format Custom Testing
 <br>
 The first line contains an integer, n, the number of elements in arr
 Each line i of the n subsequent lines(where 0 ≤ i <n ) contains a single value, arr[i].
+
 <br>
 Sample Test Case 0:
 <br>
