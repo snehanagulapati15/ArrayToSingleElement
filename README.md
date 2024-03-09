@@ -1,6 +1,6 @@
 # ArrayToSingleElement
-Reducing the array to a single element.
-
+Reducing the array to a single element.<
+<p>
 Given an integer array, reduce the array to a single element.
 in each operation, pick two indices i and j(where i ≠ j), and:
 •append the value of a[i]+ a[j] to the array
@@ -41,3 +41,4 @@ Sample Output
 101
 Explanation
 Only one operation is performed, with 100 and 1, and the cost is 100 + 1 = 101.
+</p>
